@@ -43,9 +43,3 @@ from sklearn.metrics import accuracy_score
 import pandas as pd
 
 
-# Output
-![Screenshot 2025-06-26 112218](https://github.com/user-attachments/assets/e9591579-ad79-48e1-a220-0e736daeb332)
-![Screenshot 2025-06-26 112218](https://github.com/user-attachments/assets/e9591579-ad79-48e1-a220-0e736daeb332)
-![Screenshot 2025-06-26 112218](https://github.com/user-attachments/assets/bec4d94b-346b-4c36-9e54-ad37fa66efbc)
-![Screenshot 2025-06-26 112218](https://github.com/user-attachments/assets/bec4d94b-346b-4c36-9e54-ad37fa66efbc)
-
